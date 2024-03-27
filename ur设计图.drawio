@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T03:39:19.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="rCoCGDRSv9SWM17Jlioh" version="24.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T03:40:17.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="TxSCay6yc4p3424w84Zt" version="24.0.9" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1545" dy="818" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -13,14 +13,14 @@
         <mxCell id="4" value="dataAdd&#xa;添加数据" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="302" y="455.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Office of Public Relations" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="5" value="food&#xa;食物信息" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="542" y="455.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Counsel Division" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="6" value="category&#xa;食品种类" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="872" y="455.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7" value="login登录页面" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1272" y="455.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="1082" y="307" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Analysis &#xa;Division" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="282" y="625.5" width="200" height="60" as="geometry" />
@@ -237,6 +237,9 @@
               <mxPoint x="942" y="555.5" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RNGtmF3LCrYiJPtDzRXh-57" value="login登录页面" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="451" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
