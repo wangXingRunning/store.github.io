@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T03:40:33.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="uNQXdq8UyxKAGsUpHciN" version="24.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T03:41:40.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="VieTKa_0WSFITyuXPPlC" version="24.0.9" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1545" dy="818" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="root&#xa;根" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=default;fontSize=14;align=center;" parent="1" vertex="1">
+        <mxCell id="2" value="root&#xa;根" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;align=center;" parent="1" vertex="1">
           <mxGeometry x="672" y="205.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3" value="MainBos&#xa;主页面" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
@@ -97,7 +97,7 @@
             <mxPoint x="122" y="165.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="6" edge="1">
+        <mxCell id="32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=16;" parent="1" source="3" target="6" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="22" y="265.5" as="sourcePoint" />
             <mxPoint x="122" y="165.5" as="targetPoint" />
@@ -238,7 +238,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RNGtmF3LCrYiJPtDzRXh-57" value="login&#xa;登录页面" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="RNGtmF3LCrYiJPtDzRXh-57" value="dish&#xa;菜品信息" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1153" y="453" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
